@@ -22,8 +22,6 @@
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Utech17&show_icons=true&locale=en" alt="Utech17" /></p>
 
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Utech17/Utech17/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Utech17/Utech17/output/pacman-contribution-graph.svg">
