@@ -7,7 +7,7 @@
   <img src="https://github-profile-trophy.vercel.app?username=Utech17&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-- 🔭 Actualmente estoy trabajando en **SGBI**
+- 🔭 Actualmente estoy trabajando en **Sistema de Gestión de Bienes Integral (SGBI)**
 
 - 🌱 Actualmente estoy aprendiendo **Nest.js, Laravel, Prisma, Docker.**
 
