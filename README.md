@@ -9,7 +9,7 @@
 
 - 🔭 Actualmente estoy trabajando en **Pay Orders**
 
-- 🌱 Actualmente estoy aprendiendo **Nest.js, Laravel, Prisma, Docker.**
+- 🌱 Actualmente estoy aprendiendo **Nest.js, Laravel, Prisma, Docker, DevOps.**
 
 ###
 
