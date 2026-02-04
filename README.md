@@ -7,9 +7,9 @@
   <img src="https://github-profile-trophy.vercel.app?username=Utech17&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div> -->
 
-- 🔭 Actualmente estoy trabajando en **Galeria-Promo-XL**
+- 🔭 Actualmente estoy trabajando en **SCUDO**
 
-- 🌱 Actualmente estoy aprendiendo **Nest.js, Laravel, Prisma, Docker, DevOps.**
+- 🌱 Actualmente estoy aprendiendo **Filament, Prisma, Docker, DevOps.**
 
 ###
 
@@ -71,7 +71,11 @@
   <img width="12" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img src="https://shop.filamentphp.com/cdn/shop/products/kiss-cut-stickers-3x3-default-6388cb9b4e980.jpg?v=1669909408&width=823" height="40" alt="filament logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-plain.svg" height="40" alt="fedora logo" />
+  <img width="12" />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  /> -->
 </div>
 
 ###
