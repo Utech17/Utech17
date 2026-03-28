@@ -71,7 +71,7 @@
   <img width="12" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
   <img width="12" />
-  <img src="https://shop.filamentphp.com/cdn/shop/products/kiss-cut-stickers-3x3-default-6388cb9b4e980.jpg?v=1669909408&width=823" height="40" alt="filament logo" />
+  <img src="https://www.curotec.com/wp-content/uploads/2025/10/filament-logo.jpg?w=487" height="40" alt="filament logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-plain.svg" height="40" alt="fedora logo" />
   <img width="12" />
